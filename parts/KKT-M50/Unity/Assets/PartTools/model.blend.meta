@@ -1,14 +1,62 @@
 fileFormatVersion: 2
-guid: 293b20168abf4cf4b9fe123f78bc4561
+guid: b8baf4e7fb364ce409ca289b14f52d7b
 ModelImporter:
   serializedVersion: 16
   fileIDToRecycleName:
     100000: //RootNode
+    100002: Ring
+    100004: Ring_001
+    100006: Support
+    100008: Support_001
+    100010: Support_002
+    100012: Support_003
+    100014: Support_004
+    100016: Support_005
     400000: //RootNode
+    400002: Ring
+    400004: Ring_001
+    400006: Support
+    400008: Support_001
+    400010: Support_002
+    400012: Support_003
+    400014: Support_004
+    400016: Support_005
     2300000: //RootNode
+    2300002: Ring
+    2300004: Ring_001
+    2300006: Support
+    2300008: Support_001
+    2300010: Support_002
+    2300012: Support_003
+    2300014: Support_004
+    2300016: Support_005
     3300000: //RootNode
+    3300002: Ring
+    3300004: Ring_001
+    3300006: Support
+    3300008: Support_001
+    3300010: Support_002
+    3300012: Support_003
+    3300014: Support_004
+    3300016: Support_005
     4300000: Tank
+    4300002: Support_005
+    4300004: Support_004
+    4300006: Support_003
+    4300008: Support_002
+    4300010: Support_001
+    4300012: Support
+    4300014: Ring_001
+    4300016: Ring
     6400000: //RootNode
+    6400002: Ring
+    6400004: Ring_001
+    6400006: Support
+    6400008: Support_001
+    6400010: Support_002
+    6400012: Support_003
+    6400014: Support_004
+    6400016: Support_005
     7400000: Default Take
     9500000: //RootNode
   materials:

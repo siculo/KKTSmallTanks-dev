@@ -1,50 +1,62 @@
 fileFormatVersion: 2
-guid: a84fc0d39f5daf741b9ea44c4d5b4320
+guid: 5d6d831377f94d7429a526a658e4bf46
 ModelImporter:
   serializedVersion: 16
   fileIDToRecycleName:
     100000: //RootNode
-    100002: Supporto_001
-    100004: Supporto_002
-    100006: Supporto_003
-    100008: Supporto_004
-    100010: Supporto_005
-    100012: Supporto_006
+    100002: Ring
+    100004: Ring_001
+    100006: Supporto_001
+    100008: Supporto_002
+    100010: Supporto_003
+    100012: Supporto_004
+    100014: Supporto_005
+    100016: Supporto_006
     400000: //RootNode
-    400002: Supporto_001
-    400004: Supporto_002
-    400006: Supporto_003
-    400008: Supporto_004
-    400010: Supporto_005
-    400012: Supporto_006
+    400002: Ring
+    400004: Ring_001
+    400006: Supporto_001
+    400008: Supporto_002
+    400010: Supporto_003
+    400012: Supporto_004
+    400014: Supporto_005
+    400016: Supporto_006
     2300000: //RootNode
-    2300002: Supporto_001
-    2300004: Supporto_002
-    2300006: Supporto_003
-    2300008: Supporto_004
-    2300010: Supporto_005
-    2300012: Supporto_006
+    2300002: Ring
+    2300004: Ring_001
+    2300006: Supporto_001
+    2300008: Supporto_002
+    2300010: Supporto_003
+    2300012: Supporto_004
+    2300014: Supporto_005
+    2300016: Supporto_006
     3300000: //RootNode
-    3300002: Supporto_001
-    3300004: Supporto_002
-    3300006: Supporto_003
-    3300008: Supporto_004
-    3300010: Supporto_005
-    3300012: Supporto_006
+    3300002: Ring
+    3300004: Ring_001
+    3300006: Supporto_001
+    3300008: Supporto_002
+    3300010: Supporto_003
+    3300012: Supporto_004
+    3300014: Supporto_005
+    3300016: Supporto_006
     4300000: Tank
-    4300002: Supporto_005
-    4300004: Supporto_004
-    4300006: Supporto_003
-    4300008: Supporto_002
-    4300010: Supporto_001
-    4300012: Supporto_006
+    4300002: Ring_001
+    4300004: Ring
+    4300006: Supporto_005
+    4300008: Supporto_004
+    4300010: Supporto_003
+    4300012: Supporto_002
+    4300014: Supporto_001
+    4300016: Supporto_006
     6400000: //RootNode
-    6400002: Supporto_001
-    6400004: Supporto_002
-    6400006: Supporto_003
-    6400008: Supporto_004
-    6400010: Supporto_005
-    6400012: Supporto_006
+    6400002: Ring
+    6400004: Ring_001
+    6400006: Supporto_001
+    6400008: Supporto_002
+    6400010: Supporto_003
+    6400012: Supporto_004
+    6400014: Supporto_005
+    6400016: Supporto_006
     7400000: Default Take
     9500000: //RootNode
   materials:
