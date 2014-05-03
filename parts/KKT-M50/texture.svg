@@ -16,7 +16,7 @@
    version="1.1"
    inkscape:version="0.48.4 r9939"
    sodipodi:docname="texture.svg"
-   inkscape:export-filename="E:\Data\KSP\workspace\KKTSmallTanks-dev\parts\KKT-M50\motivo.png"
+   inkscape:export-filename="E:\Data\KSP\workspace\KKTSmallTanks-dev\parts\KKT-M50\logo.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -28,9 +28,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.3396001"
-     inkscape:cx="67.740138"
-     inkscape:cy="265.69983"
+     inkscape:zoom="7.7002477"
+     inkscape:cx="443.74952"
+     inkscape:cy="110.11859"
      inkscape:document-units="px"
      inkscape:current-layer="layer5"
      showgrid="false"
@@ -68,7 +68,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -116,7 +116,7 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="Motivo"
-     style="display:inline">
+     style="display:none">
     <rect
        style="fill:#a66636;fill-opacity:1;stroke:none"
        id="rect3885-4"
@@ -204,7 +204,29 @@
   <g
      inkscape:groupmode="layer"
      id="layer5"
-     inkscape:label="Logo" />
+     inkscape:label="Logo"
+     style="display:inline">
+    <g
+       transform="matrix(0.09917355,0,0,0.08056773,455.41322,385.21833)"
+       style="display:inline"
+       id="g3842">
+      <path
+         inkscape:connector-curvature="0"
+         id="path2998"
+         d="m 16,192 64,0 0,64 32,-64 64,0 -32,64 32,64 -64,0 -32,-64 0,64 -64,0 z"
+         style="fill:#005c94;fill-opacity:1;stroke:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3002"
+         d="m 308,256 32,-64 160,0 -32,64 -32,0 0,64 -64,0 0,-64 z"
+         style="fill:#005c94;fill-opacity:1;stroke:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2998-7"
+         d="m 178,192 64,0 0,64 32,-64 64,0 -32,64 32,64 -64,0 -32,-64 0,64 -64,0 z"
+         style="fill:#005c94;fill-opacity:1;stroke:none;display:inline" />
+    </g>
+  </g>
   <g
      inkscape:groupmode="layer"
      id="layer2"
