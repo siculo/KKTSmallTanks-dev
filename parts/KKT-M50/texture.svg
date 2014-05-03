@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="512"
+   height="512"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="texture.svg"
+   inkscape:export-filename="E:\Data\KSP\workspace\KKTSmallTanks-dev\parts\KKT-M50\motivo.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.3396001"
+     inkscape:cx="67.740138"
+     inkscape:cy="265.69983"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer5"
+     showgrid="false"
+     borderlayer="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1018"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     inkscape:snap-global="true"
+     guidetolerance="10"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2985"
+       empspacing="4"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       spacingx="16px"
+       spacingy="16px"
+       dotted="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Sfondo"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-540.36218)"
+     style="display:none">
+    <path
+       sodipodi:type="arc"
+       style="fill:#464646;fill-opacity:1;stroke:none"
+       id="path3786"
+       sodipodi:cx="360.71429"
+       sodipodi:cy="148.42857"
+       sodipodi:rx="145.71428"
+       sodipodi:ry="145.71428"
+       d="m 506.42857,148.42857 a 145.71428,145.71428 0 1 1 -291.42855,0 145.71428,145.71428 0 1 1 291.42855,0 z"
+       transform="translate(0,540.36218)" />
+    <rect
+       style="fill:#464646;fill-opacity:1;stroke:none"
+       id="rect3790"
+       width="512.85712"
+       height="37.768787"
+       x="0"
+       y="835.82611" />
+    <rect
+       style="fill:#464646;fill-opacity:1;stroke:none"
+       id="rect3842-8"
+       width="512.49963"
+       height="83.185928"
+       x="0"
+       y="427.81409"
+       transform="translate(0,540.36218)" />
+    <rect
+       style="fill:#464646;fill-opacity:1;stroke:none"
+       id="rect3842"
+       width="512.50037"
+       height="83.185928"
+       x="0.49285558"
+       y="337.74866"
+       transform="translate(0,540.36218)" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Motivo"
+     style="display:inline">
+    <rect
+       style="fill:#a66636;fill-opacity:1;stroke:none"
+       id="rect3885-4"
+       width="512.50037"
+       height="23.139345"
+       x="0.49285558"
+       y="367.77194" />
+    <rect
+       transform="translate(0,-540.36218)"
+       style="fill:#323232;fill-opacity:1;stroke:none"
+       id="rect3915"
+       width="18.285473"
+       height="34.105488"
+       x="103.54919"
+       y="547.97076" />
+    <rect
+       transform="translate(0,-540.36218)"
+       style="fill:#323232;fill-opacity:1;stroke:none"
+       id="rect3905"
+       width="46.972092"
+       height="127.78429"
+       x="5.1835706e-015"
+       y="545.26562" />
+    <path
+       style="fill:#323232;fill-opacity:1;stroke:none"
+       d="m 55.205811,123.81598 9.297821,9.29782 20.920097,-20.9201 0,-87.748179 L 64.794189,3.8159806 54.624697,13.985472 68.42615,27.786925 l 0,20.774818 -13.220339,0 0,41.25908 13.656174,0 0,21.791767 z"
+       id="path3909"
+       inkscape:connector-curvature="0" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#323232;fill-opacity:1;stroke:none"
+       id="path3913"
+       sodipodi:cx="112.79466"
+       sodipodi:cy="57.739536"
+       sodipodi:rx="20.340021"
+       sodipodi:ry="20.340021"
+       d="m 133.13468,57.739536 a 20.340021,20.340021 0 1 1 -40.680039,0 20.340021,20.340021 0 1 1 40.680039,0 z"
+       transform="matrix(1.0202026,0,0,1.0202026,-2.4841857,-0.75556)" />
+    <rect
+       transform="translate(0,-540.36218)"
+       style="fill:#323232;fill-opacity:1;stroke:none"
+       id="rect3917"
+       width="27.941847"
+       height="73.963715"
+       x="131.49104"
+       y="546.53259" />
+    <rect
+       transform="translate(0,-540.36218)"
+       style="fill:#8a8a8a;fill-opacity:1;stroke:none"
+       id="rect3941"
+       width="64.512794"
+       height="64.307335"
+       x="168.4729"
+       y="548.7926" />
+    <rect
+       style="fill:#a66636;fill-opacity:1;stroke:none"
+       id="rect3885-4-2"
+       width="512.5"
+       height="23.139345"
+       x="0"
+       y="457.90662" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Particolari"
+     style="display:none">
+    <rect
+       transform="translate(0,-540.36218)"
+       style="fill:#8a8a8a;fill-opacity:1;stroke:none"
+       id="rect3919"
+       width="11.710912"
+       height="31.845488"
+       x="91.83828"
+       y="547.97076" />
+    <rect
+       transform="translate(0,-540.36218)"
+       style="fill:#8a8a8a;fill-opacity:1;stroke:none"
+       id="rect3919-8"
+       width="9.8618193"
+       height="33.007713"
+       x="121.62922"
+       y="547.73309" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="Logo" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="UV"
+     style="opacity:0.24299999;display:none"
+     sodipodi:insensitive="true">
+    <image
+       transform="translate(0,-540.36218)"
+       y="540.36218"
+       x="0"
+       id="image2995"
+       xlink:href="file:///E:/Data/KSP/workspace/KKTSmallTanks-dev/parts/KKT-M50/uv.png"
+       height="512"
+       width="512" />
+  </g>
+</svg>
