@@ -12,6 +12,11 @@ ModelImporter:
     100012: Support_003
     100014: Support_004
     100016: Support_005
+    100018: Container
+    100020: Front_Plug
+    100022: Top
+    100024: Top_001
+    100026: Valve
     400000: Base
     400002: Base_001
     400004: //RootNode
@@ -21,6 +26,11 @@ ModelImporter:
     400012: Support_003
     400014: Support_004
     400016: Support_005
+    400018: Container
+    400020: Front_Plug
+    400022: Top
+    400024: Top_001
+    400026: Valve
     2300000: Base
     2300002: Base_001
     2300004: //RootNode
@@ -30,6 +40,11 @@ ModelImporter:
     2300012: Support_003
     2300014: Support_004
     2300016: Support_005
+    2300018: Container
+    2300020: Front_Plug
+    2300022: Top
+    2300024: Top_001
+    2300026: Valve
     3300000: Base
     3300002: Base_001
     3300004: //RootNode
@@ -39,6 +54,11 @@ ModelImporter:
     3300012: Support_003
     3300014: Support_004
     3300016: Support_005
+    3300018: Container
+    3300020: Front_Plug
+    3300022: Top
+    3300024: Top_001
+    3300026: Valve
     4300000: Container
     4300002: Base_001
     4300004: Support_005
@@ -48,6 +68,10 @@ ModelImporter:
     4300012: Support_001
     4300014: Support
     4300016: Base
+    4300018: Top_001
+    4300020: Top
+    4300022: Front_Plug
+    4300024: Valve
     6400000: Base
     6400002: Base_001
     6400004: //RootNode
@@ -57,6 +81,11 @@ ModelImporter:
     6400012: Support_003
     6400014: Support_004
     6400016: Support_005
+    6400018: Container
+    6400020: Front_Plug
+    6400022: Top
+    6400024: Top_001
+    6400026: Valve
     7400000: Default Take
     9500000: //RootNode
   materials:

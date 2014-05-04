@@ -12,6 +12,16 @@ ModelImporter:
     100012: Supporto_004
     100014: Supporto_005
     100016: Supporto_006
+    100018: Bottom
+    100020: Front_Plug
+    100022: Support
+    100024: Support_001
+    100026: Support_002
+    100028: Support_003
+    100030: Support_004
+    100032: Support_005
+    100034: Top
+    100036: Valve
     400000: //RootNode
     400002: Ring
     400004: Ring_001
@@ -21,6 +31,16 @@ ModelImporter:
     400012: Supporto_004
     400014: Supporto_005
     400016: Supporto_006
+    400018: Bottom
+    400020: Front_Plug
+    400022: Support
+    400024: Support_001
+    400026: Support_002
+    400028: Support_003
+    400030: Support_004
+    400032: Support_005
+    400034: Top
+    400036: Valve
     2300000: //RootNode
     2300002: Ring
     2300004: Ring_001
@@ -30,6 +50,16 @@ ModelImporter:
     2300012: Supporto_004
     2300014: Supporto_005
     2300016: Supporto_006
+    2300018: Bottom
+    2300020: Front_Plug
+    2300022: Support
+    2300024: Support_001
+    2300026: Support_002
+    2300028: Support_003
+    2300030: Support_004
+    2300032: Support_005
+    2300034: Top
+    2300036: Valve
     3300000: //RootNode
     3300002: Ring
     3300004: Ring_001
@@ -39,6 +69,16 @@ ModelImporter:
     3300012: Supporto_004
     3300014: Supporto_005
     3300016: Supporto_006
+    3300018: Bottom
+    3300020: Front_Plug
+    3300022: Support
+    3300024: Support_001
+    3300026: Support_002
+    3300028: Support_003
+    3300030: Support_004
+    3300032: Support_005
+    3300034: Top
+    3300036: Valve
     4300000: Tank
     4300002: Ring_001
     4300004: Ring
@@ -48,6 +88,16 @@ ModelImporter:
     4300012: Supporto_002
     4300014: Supporto_001
     4300016: Supporto_006
+    4300018: Support_005
+    4300020: Support_004
+    4300022: Support_003
+    4300024: Support_002
+    4300026: Support_001
+    4300028: Bottom
+    4300030: Top
+    4300032: Valve
+    4300034: Front_Plug
+    4300036: Support
     6400000: //RootNode
     6400002: Ring
     6400004: Ring_001
@@ -57,6 +107,16 @@ ModelImporter:
     6400012: Supporto_004
     6400014: Supporto_005
     6400016: Supporto_006
+    6400018: Bottom
+    6400020: Front_Plug
+    6400022: Support
+    6400024: Support_001
+    6400026: Support_002
+    6400028: Support_003
+    6400030: Support_004
+    6400032: Support_005
+    6400034: Top
+    6400036: Valve
     7400000: Default Take
     9500000: //RootNode
   materials:
