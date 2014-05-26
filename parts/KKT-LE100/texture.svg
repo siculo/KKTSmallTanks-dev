@@ -63,8 +63,8 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="4.1872801"
-     inkscape:cx="138.18848"
+     inkscape:zoom="2.5097865"
+     inkscape:cx="92.36785"
      inkscape:cy="112.79688"
      inkscape:document-units="px"
      inkscape:current-layer="svg2"
@@ -305,7 +305,7 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="UV"
-     style="opacity:0.24299999;display:inline"
+     style="opacity:0.24299999;display:none"
      transform="translate(0,-256)"
      sodipodi:insensitive="true">
     <image
@@ -326,17 +326,17 @@
          height="49.478966"
          x="108.41466"
          y="157.04207" /></flowRegion><flowPara
-       id="flowPara3799"></flowPara></flowRoot>  <text
+       id="flowPara3799" /></flowRoot>  <text
      xml:space="preserve"
      style="font-size:9.99974346px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:80.00000119%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#323232;fill-opacity:1;stroke:none;font-family:Aharoni;-inkscape-font-specification:Aharoni Bold"
      x="159.99295"
-     y="-89.26886"
+     y="-217.10585"
      id="text3787-7"
      sodipodi:linespacing="80.000001%"
      transform="matrix(0,1.0000378,-0.9999622,0,0,0)"><tspan
        sodipodi:role="line"
        x="159.99295"
-       y="-89.26886"
+       y="-217.10585"
        style="text-align:start;text-anchor:start"
        id="tspan3841">LE100 </tspan></text>
 </svg>

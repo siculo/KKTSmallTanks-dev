@@ -63,8 +63,8 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.5097865"
-     inkscape:cx="140.04472"
+     inkscape:zoom="2.1274362"
+     inkscape:cx="85.989045"
      inkscape:cy="88.407075"
      inkscape:document-units="px"
      inkscape:current-layer="svg2"
@@ -103,7 +103,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -330,13 +330,13 @@
      xml:space="preserve"
      style="font-size:9.999547px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:80.00000119%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#323232;fill-opacity:1;stroke:none;font-family:Aharoni;-inkscape-font-specification:Aharoni Bold"
      x="155.44777"
-     y="-89.270615"
+     y="-217.11012"
      id="text3787-7"
      sodipodi:linespacing="80.000001%"
      transform="matrix(0,1.0000575,-0.9999425,0,0,0)"><tspan
        sodipodi:role="line"
        x="155.44777"
-       y="-89.270615"
+       y="-217.11012"
        style="text-align:start;text-anchor:start"
        id="tspan3841">ME100 </tspan></text>
 </svg>
