@@ -25,6 +25,9 @@ ModelImporter:
     100038: node_collider
     100040: Junction
     100042: Junction_001
+    100044: Plate
+    100046: Top
+    100048: Top_Plate
     400000: //RootNode
     400002: Slot_000
     400004: Slot_001
@@ -47,6 +50,9 @@ ModelImporter:
     400038: node_collider
     400040: Junction
     400042: Junction_001
+    400044: Plate
+    400046: Top
+    400048: Top_Plate
     2300000: //RootNode
     2300002: Slot_000
     2300004: Slot_001
@@ -69,6 +75,9 @@ ModelImporter:
     2300038: node_collider
     2300040: Junction
     2300042: Junction_001
+    2300044: Plate
+    2300046: Top
+    2300048: Top_Plate
     3300000: //RootNode
     3300002: Slot_000
     3300004: Slot_001
@@ -91,6 +100,9 @@ ModelImporter:
     3300038: node_collider
     3300040: Junction
     3300042: Junction_001
+    3300044: Plate
+    3300046: Top
+    3300048: Top_Plate
     4300000: Base
     4300002: Slot_004
     4300004: Slot_003
@@ -112,6 +124,10 @@ ModelImporter:
     4300036: node_collider
     4300038: Junction_001
     4300040: Junction
+    4300042: Bottom
+    4300044: Top
+    4300046: Top_Plate
+    4300048: Plate
     6400000: //RootNode
     6400002: Slot_000
     6400004: Slot_001
@@ -132,6 +148,9 @@ ModelImporter:
     6400034: Top_003
     6400036: Junction
     6400038: Junction_001
+    6400040: Plate
+    6400042: Top
+    6400044: Top_Plate
     7400000: Default Take
     9500000: //RootNode
   materials:

@@ -4,11 +4,18 @@ ModelImporter:
   serializedVersion: 16
   fileIDToRecycleName:
     100000: //RootNode
+    100002: Internal
     400000: //RootNode
+    400002: Internal
     2300000: //RootNode
+    2300002: Internal
     3300000: //RootNode
+    3300002: Internal
     4300000: Cylinder
+    4300002: Esternal
+    4300004: Internal
     6400000: //RootNode
+    6400002: Internal
     7400000: Default Take
     9500000: //RootNode
   materials:
